@@ -39,14 +39,15 @@ Soy un **Ingeniero de Software e Ingeniero en Informática con especialización 
 ## 🎨 Animación
 Poseo conocimientos sólidos en animación, aplicando conceptos matemáticos como quaterniones y reparametrización, enfocados principalmente en el desarrollo de add-ons para Blender. Estoy familiarizado con su interfaz y cómo adaptarla para enfrentar diversos desafíos de animación.
 
+## 🕹️ Programación de Videojuegos
+Tengo experiencia en la creación de entornos interactivos en videojuegos, especialmente en contextos 3D. Aplico conocimientos matemáticos y físicos para enriquecer las escenas y proporcionar una experiencia de juego inmersiva y desafiante.
+
 ## 🗄️ Bases de Datos
 Entiendo los fundamentos para estructurar correctamente una base de datos, asegurando que la información sea accesible y esté organizada de manera eficiente.
 
 ## 🌐 Programación Web
 Domino tanto el frontend con HTML y CSS, como el backend con JavaScript, teniendo una comprensión sólida de las operaciones a bajo nivel y cómo optimizarlas para un rendimiento superior.
 
-## 🕹️ Programación de Videojuegos
-Tengo experiencia en la creación de entornos interactivos en videojuegos, especialmente en contextos 3D. Aplico conocimientos matemáticos y físicos para enriquecer las escenas y proporcionar una experiencia de juego inmersiva y desafiante.
 
 ---
 
