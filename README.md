@@ -1,7 +1,7 @@
 # Hola, soy Joan Giron 👋
 
 ## 👨‍💻 Acerca de mí
-Soy un **Ingeniero de Software e Ingeniero en Informática con especialización en Multimedia**. A lo largo de mi carrera, he adquirido una visión global sobre los fundamentos de diversas tecnologías, permitiéndome comprender y manipular el mundo digital de manera eficaz. Me apasiona trabajar en equipo, enfrentar nuevos desafíos y aplicar mi conocimiento en proyectos innovadores y dinámicos.
+Soy un **Ingeniero en Informática con especialización en Multimedia**. A lo largo de mi carrera, he adquirido una visión global sobre los fundamentos de diversas tecnologías, permitiéndome comprender y manipular el mundo digital de manera eficaz. Me apasiona trabajar en equipo, enfrentar nuevos desafíos y aplicar mi conocimiento en proyectos innovadores y dinámicos.
 
 ## 🛠 Habilidades Técnicas
 ### Lenguajes de Programación:
